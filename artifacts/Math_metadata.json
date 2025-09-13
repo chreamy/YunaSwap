@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/libraries/Math.sol": "Math"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/libraries/Math.sol": {
+			"keccak256": "0x028ced32e7e901651cbbab8d580a47e3f10c903d11245d7d462f6d452454f28c",
+			"urls": [
+				"bzz-raw://d571d399d49e07b60f90a169fcbd6882ba03cf9a66d4e67c26d01473ffe74c31",
+				"dweb:/ipfs/QmXBgJcWhwWtKV5FeC39kdgW9jyd9a6HqPGamLcpB9zxUw"
+			]
+		}
+	},
+	"version": 1
+}
