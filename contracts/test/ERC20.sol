@@ -1,8 +1,8 @@
 pragma solidity >=0.6.6;
 
-import '../UniswapV2ERC20.sol';
+import '../YunaswapERC20.sol';
 
-contract ERC20 is UniswapV2ERC20 {
+contract ERC20 is YunaswapERC20 {
     constructor(uint _totalSupply) public {
         _mint(msg.sender, _totalSupply);
     }

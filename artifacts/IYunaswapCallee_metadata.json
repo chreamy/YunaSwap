@@ -1,0 +1,68 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "sender",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount0",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bytes",
+						"name": "data",
+						"type": "bytes"
+					}
+				],
+				"name": "yunaswapCall",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/interfaces/IYunaswapCallee.sol": "IYunaswapCallee"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/interfaces/IYunaswapCallee.sol": {
+			"keccak256": "0xee2715ab2e843a9c4f0f6a7311d4631650e0c36fdc72e520bb569f7abb61dad8",
+			"urls": [
+				"bzz-raw://e70a5f82bab2a89a6470191fa75dc43d3c38fa4809580bcd90c41957e6179dae",
+				"dweb:/ipfs/QmdJribQxj38jJDJWFoktBMSnt7EFfJ98aaJbzuWjQcDoD"
+			]
+		}
+	},
+	"version": 1
+}

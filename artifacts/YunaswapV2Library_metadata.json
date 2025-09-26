@@ -43,10 +43,10 @@
 			]
 		},
 		"contracts/libraries/YunaswapV2Library.sol": {
-			"keccak256": "0xc50d31285b766aa0932b0b68e36659089a69bc6f420596ace839e9399a1d815a",
+			"keccak256": "0x169d5ec71658beec6632e058ccf78c56382dfcea8939c5dc3a706f1afc515369",
 			"urls": [
-				"bzz-raw://b34c945af9ccbf56c2bb1816c647bb893d7652afda19542323243011fdbbce12",
-				"dweb:/ipfs/QmSHraUpwEZVcAY5G27Xaaz6iT5HPxEXiCxsXhkZQZfET9"
+				"bzz-raw://c02dc04a61aea272465311fb16830c9940d5b0a0c912e2de8a78d0bee8cea31d",
+				"dweb:/ipfs/QmcitUKufW7XT7PF27zfSpC1eHC49Cgh44ijED42onxY6y"
 			]
 		}
 	},
